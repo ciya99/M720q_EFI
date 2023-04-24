@@ -1,1 +1,1 @@
-# m720q
+Lenovo ThinkCentre M720Q Hackintosh
