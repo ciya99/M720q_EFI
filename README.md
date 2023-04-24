@@ -5,8 +5,6 @@
 核显双接口输出正常 无独显,蓝牙wifi工作正常。
 三码去除自行添加
 
-Available in version macOS 13.3.1
-
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
