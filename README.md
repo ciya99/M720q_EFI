@@ -1,4 +1,4 @@
-#Lenovo ThinkCentre M720Q EFI Hackintosh
+##Lenovo ThinkCentre M720Q EFI Hackintosh
 ##
 联想 M720Q EFI (OpenCore 0.9.1)
 适用MacOS 13.3.1版
