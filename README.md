@@ -22,7 +22,6 @@
 ![image](https://github.com/ciya99/M720q_EFI/blob/main/mac1.png)![image](https://github.com/ciya99/M720q_EFI/blob/main/mac2.png)
 
 ## All work
-
 - CPU
 - Dual monitors (Displayport & HDMI)
 - Audio (ALC235)
@@ -32,3 +31,7 @@
 - Airdrop, Hand-off, Sidecar
 - App store, iCloud, iMessage, iTunes, FaceTime, etc
 - Sleep, Wakeup, Shutdown, Restart
+
+## Updates
+* 2023-4-25 / Version 1.0
+	- Released with OpenCore 0.9.1
