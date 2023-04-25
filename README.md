@@ -11,7 +11,7 @@
 | CPU | Intel i5-8500T |
 | Motherboard | Intel B360 |
 | RAM | Crucial 16GB DDR4-2666（8G*2） |
-| Audio Chipset | ALC235(alcid:13,18,21,36) |
+| Audio Chipset | ALC235 |
 | GPU | Intel® UHD Graphics 630 (DP, HDMI) |
 | OS Disk | Union Memory AM630 512G (NVMe) |
 | WIFI | Broadcom BCM943602CS |
@@ -24,7 +24,7 @@
 ## All work
 - CPU
 - Dual monitors (Displayport & HDMI)
-- Audio (ALC235)
+- Audio (ALC235)(alcid:13,18,21,36 OK)
 - Ethernet
 - USB
 - Wifi
