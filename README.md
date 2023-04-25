@@ -19,7 +19,7 @@
 **macOS version**: 13.3.1
 **OpenCore version**: 0.9.1
 
-![image](https://github.com/ciya99/M720q_EFI/blob/main/mac1.png)
+![image](https://github.com/ciya99/M720q_EFI/blob/main/mac1.png)![image](https://github.com/ciya99/M720q_EFI/blob/main/mac2.png)
 
 ## All work
 
