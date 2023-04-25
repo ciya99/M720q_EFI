@@ -3,7 +3,7 @@
 联想 M720Q EFI (OpenCore 0.9.1)
 适用MacOS 13.3.1版
 核显双接口输出正常 无独显,蓝牙wifi工作正常。
-三码去除自行添加
+三码请自行修改
 
 ## Specification
 | **Component** | **Model** |
