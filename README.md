@@ -19,7 +19,7 @@
 **macOS version**: 13.3.1
 **OpenCore version**: 0.9.1
 
-![image]([https://github.com/emumusic/M720Q-EFI/blob/master/screenshot.png?raw=true](https://i.pcmag.com/imagery/reviews/00GpcZZzuNT2nxWBUPxUcBR-12.fit_scale.size_760x427.v1569476350.jpg))
+![image](https://github.com/ciya99/M720q_EFI/blob/main/mac1.png)
 
 ## All work
 
