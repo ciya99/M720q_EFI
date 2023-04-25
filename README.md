@@ -1,6 +1,6 @@
 ## Lenovo ThinkCentre M720Q EFI Hackintosh
 
-联想 M720Q EFI (OpenCore 0.9.1)
+联想 M720Q EFI (OpenCore)
 适用MacOS 13.3.1版
 核显双接口输出正常 无独显,蓝牙wifi工作正常。
 三码请自行修改
